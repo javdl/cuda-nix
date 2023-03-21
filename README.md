@@ -1,0 +1,1 @@
+Run `nix develop` to enter the shell, then `conda update conda`.
