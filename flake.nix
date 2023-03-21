@@ -61,7 +61,6 @@
             conda
             cudatoolkit
             curl
-            fish
             freeglut
             gcc
             git
@@ -78,6 +77,7 @@
             stdenv.cc
             unzip
             util-linux
+            wget
             xorg.libICE
             xorg.libSM
             xorg.libX11
