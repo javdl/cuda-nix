@@ -62,7 +62,7 @@
             cudatoolkit
             curl
             freeglut
-            gcc
+            gcc11
             git
             gitRepo
             gnumake
