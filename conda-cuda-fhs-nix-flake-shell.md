@@ -1,1 +1,1 @@
-Run `nix develop` to enter the shell, then `conda update conda`.
+Run `NIXPKGS_ALLOW_UNFREE=1 nix develop --impure` to enter the shell, then `conda update conda`.
